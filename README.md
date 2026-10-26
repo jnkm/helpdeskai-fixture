@@ -97,3 +97,5 @@ separately for grading.
 poetry install
 poetry run pytest tests/ -v
 ```
+
+Incremental scan check (TRE-3230).
