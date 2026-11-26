@@ -101,3 +101,5 @@ poetry run pytest tests/ -v
 Incremental scan check (TRE-3230).
 
 PR2 narrative backfill check 1.
+
+PR2 narrative backfill check 2.
